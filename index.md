@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Alisha Castillejos]
+# 👋 Hello! I'm Alisha Castillejos
 
 Welcome to my corner of GitHub! I'm a web developer with a passion for building creative, interactive experiences.
 
@@ -20,7 +20,7 @@ Lately, I’ve been diving into **Phaser.js**, building browser-based games and 
 ### 🦸‍♀️ One Minute Hero *(WIP)*
 A bite-sized adventure game where every second counts. It started as a playful experiment and has become my go-to sandbox for exploring game design, animation, and scene transitions in Phaser.
 
-Check it out: [file:///C:/Users/FredB/OneDrive/Documents/last%20minute%20hero/lastMinHero.html]
+Check it out: file:///C:/Users/FredB/OneDrive/Documents/last%20minute%20hero/lastMinHero.html
 
 ---
 
@@ -37,7 +37,7 @@ Right now, I’m focused on:
 
 I love connecting with other developers, artists, and creative coders. Whether you want to chat about web games, jam on an idea, or just say hi — feel free to reach out!
 
-📬 [alisha.bryant89@gmail.com]
+📬 alisha.bryant89@gmail.com
 
 ---
 
