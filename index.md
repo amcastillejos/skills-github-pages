@@ -1,6 +1,6 @@
 # 👋 Hello! I'm [Alisha Castillejos]
 
-Welcome to my corner of GitHub! I'm a web developer with a passion for building creative, interactive experiences — especially ones that live in the browser.
+Welcome to my corner of GitHub! I'm a web developer with a passion for building creative, interactive experiences.
 
 ---
 
