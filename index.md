@@ -20,7 +20,7 @@ Lately, I’ve been diving into **Phaser.js**, building browser-based games and 
 ### 🦸‍♀️ One Minute Hero *(WIP)*
 A bite-sized adventure game where every second counts. It started as a playful experiment and has become my go-to sandbox for exploring game design, animation, and scene transitions in Phaser.
 
-Check it out: file:///C:/Users/FredB/OneDrive/Documents/last%20minute%20hero/lastMinHero.html
+Check it out: [game repository]
 
 ---
 
